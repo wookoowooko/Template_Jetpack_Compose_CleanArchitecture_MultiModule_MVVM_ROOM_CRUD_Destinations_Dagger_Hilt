@@ -1,4 +1,4 @@
-# [Free]Template: Jetpack Compose, Clean Architecture, Multi-Module, MVI, SQLDelight, CRUD, Voyager, Koin
+# [Free]Template: Jetpack Compose, Clean Architecture, Multi-Module, MVVM, Room, CRUD, Destinations, Dagger/Hilt
 
 It a comprehensive Android application template designed to expedite the development process by integrating a variety of modern Android technologies and architectural patterns.
 
@@ -15,8 +15,8 @@ It a comprehensive Android application template designed to expedite the develop
 - **MVI (Model-View-Intent)**: Implements the MVI architectural pattern for managing state and user interactions.
 - **SQLDelight**: Integrates SQLDelight for type-safe database access and schema management.
 - **CRUD Operations**: Includes basic CRUD (Create, Read, Update, Delete) functionality for managing data.
-- **Voyager**: Incorporates Voyager for navigation management within the application.
-- **Koin**: Uses Koin for dependency injection to facilitate loosely coupled components.
+- **Destinations**: Implements a destination-based navigation system for navigating between different screens or destinations within the application, enhancing user experience and app navigation.
+- **Dagger/Hilt**: Uses Koin for dependency injection to facilitate loosely coupled components.
 
 ## Getting Started
 
