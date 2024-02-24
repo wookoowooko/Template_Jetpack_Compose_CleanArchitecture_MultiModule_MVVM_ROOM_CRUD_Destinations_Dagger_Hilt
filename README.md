@@ -13,7 +13,7 @@ It a comprehensive Android application template designed to expedite the develop
 - **Clean Architecture**: Implements a modular and scalable architecture for better separation of concerns and maintainability.
 - **Multi-Module**: Organizes the project into multiple modules for better code organization and reusability.
 - **MVI (Model-View-Intent)**: Implements the MVI architectural pattern for managing state and user interactions.
-- **SQLDelight**: Integrates SQLDelight for type-safe database access and schema management.
+- **Room**: Integrates Room for type-safe database access and schema management.
 - **CRUD Operations**: Includes basic CRUD (Create, Read, Update, Delete) functionality for managing data.
 - **Destinations**: Implements a destination-based navigation system for navigating between different screens or destinations within the application, enhancing user experience and app navigation.
 - **Dagger/Hilt**: Uses Koin for dependency injection to facilitate loosely coupled components.
