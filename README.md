@@ -16,7 +16,7 @@ It a comprehensive Android application template designed to expedite the develop
 - **Room**: Integrates Room for type-safe database access and schema management.
 - **CRUD Operations**: Includes basic CRUD (Create, Read, Update, Delete) functionality for managing data.
 - **Destinations**: Implements a destination-based navigation system for navigating between different screens or destinations within the application, enhancing user experience and app navigation.
-- **Dagger/Hilt**: Uses Koin for dependency injection to facilitate loosely coupled components.
+- **Dagger/Hilt**: Uses Dagger/Hilt for dependency injection to facilitate loosely coupled components.
 
 ## Getting Started
 
